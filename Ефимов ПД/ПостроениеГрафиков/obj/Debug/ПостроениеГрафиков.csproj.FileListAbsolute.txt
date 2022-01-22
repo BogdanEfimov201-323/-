@@ -1,0 +1,105 @@
+C:\Users\User\documents\visual studio 2015\Projects\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\ПостроениеГрафиков.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\ПостроениеГрафиков.exe
+C:\Users\User\documents\visual studio 2015\Projects\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\ПостроениеГрафиков.pdb
+C:\Users\User\documents\visual studio 2015\Projects\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\ZedGraph.dll
+C:\Users\User\documents\visual studio 2015\Projects\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\ZedGraph.resources.dll
+C:\Users\User\documents\visual studio 2015\Projects\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\ZedGraph.xml
+C:\Users\User\documents\visual studio 2015\Projects\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\User\documents\visual studio 2015\Projects\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\User\documents\visual studio 2015\Projects\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\User\documents\visual studio 2015\Projects\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\User\documents\visual studio 2015\Projects\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\User\documents\visual studio 2015\Projects\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\User\documents\visual studio 2015\Projects\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\User\documents\visual studio 2015\Projects\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\User\documents\visual studio 2015\Projects\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\User\documents\visual studio 2015\Projects\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\User\documents\visual studio 2015\Projects\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\User\documents\visual studio 2015\Projects\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\User\documents\visual studio 2015\Projects\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\User\documents\visual studio 2015\Projects\ПостроениеГрафиков\ПостроениеГрафиков\obj\Debug\ПостроениеГрафиков.Form1.resources
+C:\Users\User\documents\visual studio 2015\Projects\ПостроениеГрафиков\ПостроениеГрафиков\obj\Debug\ПостроениеГрафиков.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2015\Projects\ПостроениеГрафиков\ПостроениеГрафиков\obj\Debug\ПостроениеГрафиков.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2015\Projects\ПостроениеГрафиков\ПостроениеГрафиков\obj\Debug\ПостроениеГрафиков.exe
+C:\Users\User\documents\visual studio 2015\Projects\ПостроениеГрафиков\ПостроениеГрафиков\obj\Debug\ПостроениеГрафиков.pdb
+C:\Users\ACER\Downloads\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\ПостроениеГрафиков.exe.config
+C:\Users\ACER\Downloads\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\ПостроениеГрафиков.exe
+C:\Users\ACER\Downloads\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\ПостроениеГрафиков.pdb
+C:\Users\ACER\Downloads\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\ZedGraph.dll
+C:\Users\ACER\Downloads\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\ZedGraph.resources.dll
+C:\Users\ACER\Downloads\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\ZedGraph.xml
+C:\Users\ACER\Downloads\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ACER\Downloads\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ACER\Downloads\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ACER\Downloads\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ACER\Downloads\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ACER\Downloads\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ACER\Downloads\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ACER\Downloads\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ACER\Downloads\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ACER\Downloads\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ACER\Downloads\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ACER\Downloads\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ACER\Downloads\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ACER\Downloads\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\obj\Debug\ПостроениеГрафиков.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\obj\Debug\ПостроениеГрафиков.Form1.resources
+C:\Users\ACER\Downloads\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\obj\Debug\ПостроениеГрафиков.Properties.Resources.resources
+C:\Users\ACER\Downloads\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\obj\Debug\ПостроениеГрафиков.csproj.GenerateResource.cache
+C:\Users\ACER\Downloads\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\obj\Debug\ПостроениеГрафиков.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\obj\Debug\ПостроениеГрафиков.csproj.CopyComplete
+C:\Users\ACER\Downloads\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\obj\Debug\ПостроениеГрафиков.exe
+C:\Users\ACER\Downloads\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\obj\Debug\ПостроениеГрафиков.pdb
+C:\Users\79199\Downloads\a538a27238a572fb\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\ПостроениеГрафиков.exe.config
+C:\Users\79199\Downloads\a538a27238a572fb\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\ПостроениеГрафиков.exe
+C:\Users\79199\Downloads\a538a27238a572fb\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\ПостроениеГрафиков.pdb
+C:\Users\79199\Downloads\a538a27238a572fb\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\ZedGraph.dll
+C:\Users\79199\Downloads\a538a27238a572fb\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\ZedGraph.resources.dll
+C:\Users\79199\Downloads\a538a27238a572fb\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\ZedGraph.xml
+C:\Users\79199\Downloads\a538a27238a572fb\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\79199\Downloads\a538a27238a572fb\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\79199\Downloads\a538a27238a572fb\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\79199\Downloads\a538a27238a572fb\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\79199\Downloads\a538a27238a572fb\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\79199\Downloads\a538a27238a572fb\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\79199\Downloads\a538a27238a572fb\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\79199\Downloads\a538a27238a572fb\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\79199\Downloads\a538a27238a572fb\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\79199\Downloads\a538a27238a572fb\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\79199\Downloads\a538a27238a572fb\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\79199\Downloads\a538a27238a572fb\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\79199\Downloads\a538a27238a572fb\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\79199\Downloads\a538a27238a572fb\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\obj\Debug\ПостроениеГрафиков.csprojAssemblyReference.cache
+C:\Users\79199\Downloads\a538a27238a572fb\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\obj\Debug\ПостроениеГрафиков.Form1.resources
+C:\Users\79199\Downloads\a538a27238a572fb\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\obj\Debug\ПостроениеГрафиков.Properties.Resources.resources
+C:\Users\79199\Downloads\a538a27238a572fb\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\obj\Debug\ПостроениеГрафиков.csproj.GenerateResource.cache
+C:\Users\79199\Downloads\a538a27238a572fb\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\obj\Debug\ПостроениеГрафиков.csproj.CoreCompileInputs.cache
+C:\Users\79199\Downloads\a538a27238a572fb\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\obj\Debug\ПостроениеГрафиков.csproj.CopyComplete
+C:\Users\79199\Downloads\a538a27238a572fb\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\obj\Debug\ПостроениеГрафиков.exe
+C:\Users\79199\Downloads\a538a27238a572fb\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\obj\Debug\ПостроениеГрафиков.pdb
+C:\Users\79199\Downloads\Ефимов Построение Графиков\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\ПостроениеГрафиков.exe.config
+C:\Users\79199\Downloads\Ефимов Построение Графиков\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\ПостроениеГрафиков.exe
+C:\Users\79199\Downloads\Ефимов Построение Графиков\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\ПостроениеГрафиков.pdb
+C:\Users\79199\Downloads\Ефимов Построение Графиков\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\ZedGraph.dll
+C:\Users\79199\Downloads\Ефимов Построение Графиков\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\ZedGraph.resources.dll
+C:\Users\79199\Downloads\Ефимов Построение Графиков\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\ZedGraph.xml
+C:\Users\79199\Downloads\Ефимов Построение Графиков\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\79199\Downloads\Ефимов Построение Графиков\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\79199\Downloads\Ефимов Построение Графиков\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\79199\Downloads\Ефимов Построение Графиков\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\79199\Downloads\Ефимов Построение Графиков\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\79199\Downloads\Ефимов Построение Графиков\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\79199\Downloads\Ефимов Построение Графиков\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\79199\Downloads\Ефимов Построение Графиков\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\79199\Downloads\Ефимов Построение Графиков\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\79199\Downloads\Ефимов Построение Графиков\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\79199\Downloads\Ефимов Построение Графиков\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\79199\Downloads\Ефимов Построение Графиков\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\79199\Downloads\Ефимов Построение Графиков\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\79199\Downloads\Ефимов Построение Графиков\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\obj\Debug\ПостроениеГрафиков.csprojAssemblyReference.cache
+C:\Users\79199\Downloads\Ефимов Построение Графиков\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\obj\Debug\ПостроениеГрафиков.Properties.Resources.resources
+C:\Users\79199\Downloads\Ефимов Построение Графиков\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\obj\Debug\ПостроениеГрафиков.csproj.GenerateResource.cache
+C:\Users\79199\Downloads\Ефимов Построение Графиков\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\obj\Debug\ПостроениеГрафиков.csproj.CoreCompileInputs.cache
+C:\Users\79199\Downloads\Ефимов Построение Графиков\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\obj\Debug\ПостроениеГрафиков.csproj.CopyComplete
+C:\Users\79199\Downloads\Ефимов Построение Графиков\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\obj\Debug\ПостроениеГрафиков.exe
+C:\Users\79199\Downloads\Ефимов Построение Графиков\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\obj\Debug\ПостроениеГрафиков.pdb
+C:\Users\79199\Downloads\Ефимов Построение Графиков\ПостроениеГрафиков\ПостроениеГрафиков\ПостроениеГрафиков\obj\Debug\ПостроениеГрафиков.Form1.resources
